@@ -1,4 +1,4 @@
-package edidada.cn;
+package cn.edidada.testredision;
 
 import org.redisson.Redisson;
 import org.redisson.api.RLock;
